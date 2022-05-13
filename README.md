@@ -4,7 +4,9 @@ I work as full stack, experienced on backend and competent on frontend. I have a
 
 Main technologies in order of experience:
 - Java (Spring Boot and JEE in general).
-- Javascript (ES6, Typescript, Node, React, Next).
+- Javascript (ES6, Typescript, Node, React/Next, Svelte/SvelteKit).
 - C# (Unity).
+- Python (fastApi, sqlmodels/sqlalchemy, pyenv, poetry).
+- Go.
 
 Although I currently work on web applications, I am always open to new oportunities in other technologies and areas that involve programming.
